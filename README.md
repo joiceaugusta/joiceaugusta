@@ -3,7 +3,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
 - 💼 Trabalhando como front-end.
 
 ## Minhas Skills
